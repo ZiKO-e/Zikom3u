@@ -1,0 +1,158 @@
+#EXTM3U
+ 
+#EXTINF:-1 tvg-id="1" tvg-name="" tvg-logo="http://images2.imagebam.com/2a/e5/7c/f061ac784878033.jpg" group-title="עידן+",ch 11 כאן
+https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/source1_2.5k/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images2.imagebam.com/3b/9c/29/accd2c784878043.jpg" group-title="עידן+",ch 12 קשת
+http://keshethlslive-i.akamaihd.net/hls/live/512033/CH2LIVE_HIGH/index_3100.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.157 Safari/537.36&Cookie=hdntl%3Dexp%3D1526383245%7Eacl%3D%252f%2A%7Edata%3Dhdntl%7Ehmac%3D80602448a98244e682aaf4967d8816b7ea31d5f675efc2a08f4be8144407fb6b;removed_hdnts%3Dst%3D1526296725%7Eexp%3D1526297625%7Eacl%3D/%2A%7Ehmac%3D3654a356e5543452248b29b104ffb1bfe30e100d93b3320166d4270001d98e23;_alid_%3DuhrHjNjdCT6IoIn2PMdYZg%3D%3D&Referer=http://keshethlslive-i.akamaihd.net/hls/live
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://thumbs2.imagebam.com/bc/ad/be/19f5c9784877383.jpg" group-title="עידן+",ch 13 רשת
+https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index_3.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://thumbs2.imagebam.com/bc/ad/be/19f5c9784877383.jpg" group-title="עידן+",ch 26
+https://d2lckchr9cxrss.cloudfront.net/out/v1/c73af7694cce4767888c08a7534b503c/index_3.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://thumbs2.imagebam.com/aa/8b/9f/fe51a9784877423.jpg" group-title="עידן+",ch 20 מורשת
+http://live.ch20-cdnwiz.com/ch20-abr/ch20-abr/ch20/high/chunks.m3u8|User-Agent=Mozilla/5.0 (Windows NT 5.1; rv:40.0) Gecko/20100101 Firefox/40.0
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://thumbs2.imagebam.com/01/9b/25/afe543833363533.jpg" group-title="עידן+",ch 21 ערוץ הקניות
+http://82.80.192.30/shoppingil_ShoppingIL21TVRepeat/_definst_/smil:ShoppingIL21TV.smil/chunklist_w2043660694_b2128000.m3u8?ttl=1524643697&cdn_token=5a6c4f1270440ae72118c8ae16c58de4|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_2) AppleWebKit/600.3.18 (KHTML, like Gecko) Version/8.0.3 Safari/600.3.18
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images2.imagebam.com/de/cc/c9/4c7f3e788799523.png" group-title="עידן+",ch 23 חינוכית
+http://IL28.cast-tv.com:1935/25400_LIVE_Live2018_1.stream/_definst_/25400_LIVE_Free734777_1.stream/chunklist_w2104786917.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.10240
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://thumbs2.imagebam.com/ec/75/53/eb02a3784877443.jpg" group-title="עידן+",ch 24
+http://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_2200_av-b.m3u8?sd=10&rebase=on&hdntl=exp=1521305784~acl=%2f*~data=hdntl~hmac=0b04f206fb1bb2004ae6ab7c02a951d97bfdd220397c0516bb6057206493c8ea|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36&Cookie=hdntl%3Dexp%3D1521305784%7Eacl%3D%252f%2A%7Edata%3Dhdntl%7Ehmac%3D0b04f206fb1bb2004ae6ab7c02a951d97bfdd220397c0516bb6057206493c8ea;_alid_%3DYrk%2B1GiREjTrEWpIW8Vc7Q%3D%3D
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://thumbs2.imagebam.com/d7/d1/66/09af58859804694.jpg" group-title="עידן+",ch 26 האח הגדול
+https://besttv511.aoslive.it.best-tv.com/egress/bhandler/reshet/bb01/chunklist_b3682304.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36&Referer=http://reshet.tv/home/bb-livestream/
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://thumbs2.imagebam.com/7f/c9/59/47d865784878303.jpg" group-title="עידן+",ch 33 כאן
+https://62-90-90-52.vidnt.com/ipbc_IPBCmakantvLVMRepeat/_definst_/smil:IPBCmakantvLVM.smil/chunklist_w48594442_b1928000.m3u8?ttl=1521305805&cdn_token=ab3709e2615d22dacf910f3d553f630c|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://thumbs2.imagebam.com/83/d6/c4/66b29e784878143.jpg" group-title="עידן+",ch 99  כנסת
+http://w3.013.gostreaming.tv:1935/Knesset/myStream/chunklist_w997581554.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/537.78.2 (KHTML, like Gecko) Version/6.1.6 Safari/537.78.2
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://thumbs2.imagebam.com/c6/b0/f7/9ace12784877973.jpg" group-title="עידן++",ch i24 English
+https://stream-13.dc3.dailymotion.com/20/dm/3/x29atae/live-4.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://thumbs2.imagebam.com/bc/a0/fd/e23f51784878413.jpg" group-title="עידן+", ch ערוץ החדשות 
+http://besttv511.aoslive.it.best-tv.com/egress/bhandler/reshet/neveilan02/chunklist_b1908736.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36&Referer=http://reshet.tv/home/live-news/
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://thumbs2.imagebam.com/de/fd/ae/384417784878073.jpg" group-title="עידן++", HD קשת - המיטב
+http://keshethlslive-lh.akamaihd.net/i/lin1_1@364366/index_5000_av-p.m3u8?sd=10&rebase=on|User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; Touch; rv:11.0) like Gecko&Cookie=_alid_%3Db37lix3kxexAPjheN892ug%3D%3D
+
+#EXTINF:-1, sport 5
+http://sport5_live1-lh.akamaihd.net/i/live3_0@129322/index_1_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo=”https://s29.postimg.org/4pfa0m3qf/aroz22.png", "ערוץ החדשות"
+http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8
+#EXTINF:-1 tvg-logo="https://s28.postimg.org/ybw6t6vq5/D2_F72_F70-84_CF-4_AA7-_AE53-_E213042_DE1_E3.jpg", ערוץ 10
+http://nana10-hdl-il-sw.ctedgecdn.net/Nana10-Live/amlst:hd_,500,1000,1200,2400,/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/KAN_11.png" group-title="Hebrew",כאן 11
+http://82.80.192.2/ipbc_IPBCchannel11LVMRepeat/_definst_/smil:IPBCchannel11LVM.smil/playlist.m3u8
+#EXTINF:-1  tvg-logo="http://img.mako.co.il/2017/10/29/hadashot_4.jpg",ערוץ החדשות - Online
+http://keshethlslive-lh.akamaihd.net/i/c2nsec_1@195268/index_2296_av-p.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1  tvg-logo="http://www.isramedia.net/images/users/2/0e6b040fd7318b2f62c56368490fda4f.png" group-title="Hebrew",ערוץ 14
+http://nana10-hdl-il-sw.ctedgecdn.net/Nana10-Live/amlst:hd_,500,1000,1200,2400,/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.isramedia.net/images/users/2/be1747eee7bc07dfa425da17c6d5acc7.png", VOD קשת
+http://keshethlslive-lh.akamaihd.net/i/lin1_1@364366/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36
+#EXTINF:-1 tvg-logo="http://www.isramedia.net/images/users/2/c068b87e9f98c57aa894ba59b7ee1d35.png", רשת
+https://besttv1.aoslive.it.best-tv.com/reshet/studio/index_3.m3u8
+#EXTINF:-1 tvg-logo="http://www.isramedia.net/images/users/2/be1747eee7bc07dfa425da17c6d5acc7.png", קשת
+http://l5.isramedia.net:1935/chan/smil:12jh.smil/chunklist_w912117380_b450000_tkdG9rZW5zdGFydHRpbWU9MTUyMjYwODEwOCZ0b2tlbmVuZHRpbWU9MTUyMjYxMTcwOCZ0b2tlbmhhc2g9MF8tRWF0dWZlUTdabXpMc1cwRy1CLWF6ZHJpTkM5MzhBaXhET2tXekkycz0=.m3u8
+#EXTINF:-1 tvg-ID="ערוץ מורשת - 20" tvg-name="ערוץ מורשת - 20" tvg-logo="https://xiptv.com/logos/hebrew/Channel20.png" group-title="Hebrew",ערוץ מורשת - 20
+http://live.ch20-cdnwiz.com/ch20-abr/ch20-abr/playlist.m3u8
+#EXTINF:-1 tvg-id="ערוץ הידברות" tvg-name="ערוץ הידברות" group-title="Israel" tvg-logo="http://www.tvland.co.il/Pics/hidabrutbig.jpg",ערוץ הידברות
+https://stream71.shidur.net/htvlive2/_definst_/smil:live2.smil/chunklist_b1248000.m3u8
+#EXTINF:-1, ערוץ הכנסת
+http://w3.013.gostreaming.tv:1935/Knesset/myStream/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-ID="מוסיקה 24" tvg-name="מוסיקה 24" tvg-logo="https://xiptv.com/logos/hebrew/Channel24.png" group-title="Hebrew",מוסיקה 24
+http://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_2000_av-b.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-ID="ים תיכוני" tvg-name="ים תיכוני" tvg-logo="http://haflla.com/wp-content/uploads/2015/09/207225_208253189193729_5563486_n1.jpg-750x420-1442480525.png" group-title="Hebrew",ים תיכוני
+ 
+#EXTINF:-1 tvg-ID="MTV" tvg-name="MTV" tvg-logo="http://www.camdserver.com/sb_data/files/logo/mtv.jpg" group-title="Hebrew",MTV
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/insider/general/russia-today" group-title="",===ערוצי ספורט===
+http://localhost:62555/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rt-eng-live.hls.adaptive.level3.net/rt/eng/index250011111.m3u8
+#EXTINF:-1 tvg-ID="ספורט ONE" tvg-name="ספורט ONE" tvg-logo="https://xiptv.com/logos/hebrew/ONEHD.png" group-title="Hebrew",ספורט ONE
+ 
+#EXTINF:-1 tvg-ID="ספורט 1" tvg-name="ספורט 1" tvg-logo="https://xiptv.com/logos/hebrew/YESSPORT1HD.png" group-title="Hebrew",ספורט 1
+http://ul.cdn584.net:8080/hls/zezvjlv.m3u8?s=e17wOUEYyteprQUQRjrhZw&e=1543978575
+#EXTINF:-1 tvg-ID="ספורט 2" tvg-name="ספורט 2" tvg-logo="https://xiptv.com/logos/hebrew/YESSPORT2HD.png" group-title="Hebrew",ספורט 2
+ http://ul.cdn584.net:8080/hls/wb4zq32.m3u8?s=eIYfLI7_0tygZJwPVUxNVg&e=1543978650
+#EXTINF:-1 tvg-ID="ספורט 3" tvg-name="ספורט 3" tvg-logo="https://www.xiptv.com/logos/hebrew/YESSPORT3HD.PNG" group-title="Hebrew",ספורט 3
+ 
+#EXTINF:-1 tvg-ID="ספורט 4" tvg-name="ספורט 4" tvg-logo="https://www.xiptv.com/logos/hebrew/YESSPORT4HD.PNG" group-title="Hebrew",ספורט 4
+ http://ul.cdn584.net:8080/hls/h4gpo1c.m3u8?s=nWoPuCPSrlhqWQZLr5N0XQ&e=1543977550
+#EXTINF:-1 tvg-ID="FOX SPORTS" tvg-name="FOX SPORTS" tvg-logo="https://xiptv.com/logos/hebrew/FoxSportHD.png" group-title="Hebrew",FOX SPORTS
+ 
+#EXTINF:-1 tvg-ID="ספורט 5" tvg-name="ספורט 5" tvg-logo="https://xiptv.com/logos/hebrew/Sport5HD.png" group-title="Hebrew",ספורט 5HD
+http://212.150.250.113/session/5835b800-d3bb-11e7-9aaf-000c297e06cd/rkz79m/ngx/mob/hrr_5hd/chunklist_b1596000.m3u8
+#EXTINF:-1 tvg-ID="ספורט 5 פלוס לייב" tvg-name="ספורט 5 פלוס לייב" tvg-logo="https://xiptv.com/logos/hebrew/sport5online.png" group-title="Hebrew",ספורט 5 פלוס לייב
+ 
+#EXTINF:-1 tvg-id="ספורט 5+" tvg-name="ספורט 5+" group-title="Israel" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1531.png",ספורט 5+
+ 
+#EXTINF:-1 tvg-ID="5+ Gold" tvg-name="5+ Gold" tvg-logo="https://www.xiptv.com/logos/hebrew/sport5gold.jpg" group-title="Hebrew",5+ Gold
+   
+
+###KIDS###
+
+#EXTINF:-1 tvg-ID="דיסני" tvg-name="דיסני" tvg-logo="http://www.camdserver.com/sb_data/files/logo/disney-channel.jpg" group-title="Hebrew",דיסני
+http://212.150.250.112:80/session/30c8d272-d3b9-11e7-a13b-000c293b109d/rkz79m/ngx/56/mob/hrr_disney/chunklist_b1296000.m3u8
+#EXTINF:-1 tvg-ID="Disney junior" tvg-name="Disney junior" tvg-logo="http://www.camdserver.com/sb_data/files/logo/disney-junior.jpg" group-title="Hebrew",Disney junior
+ 
+#EXTINF:-1 tvg-ID="ערוץ ניקלודיאון" tvg-name="ערוץ ניקלודיאון" tvg-logo="https://xiptv.com/logos/hebrew/Nickelodeon.png" group-title="Hebrew",ערוץ ניקלודיאון
+ 
+###since and nature###
+#EXTINF:-1 tvg-ID="NATIONAL GEOGRAPHIC" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="https://xiptv.com/logos/hebrew/natgeohd.png" group-title="Hebrew",NATIONAL GEOGRAPHIC
+ 
+#EXTINF:-1 tvg-ID="NAT GEO WILD" tvg-name="NAT GEO WILD" tvg-logo="https://xiptv.com/logos/hebrew/NationalGeoWild.png" group-title="Hebrew",NAT GEO WILD
+
+#EXTINF:-1 tvg-ID="ערוץ ההיסטוריה" tvg-name="ערוץ ההיסטוריה" tvg-logo="https://xiptv.com/logos/hebrew/HistoryHD.png" group-title="Hebrew",ערוץ ההיסטוריה
+ 
+#EXTINF:-1 tvg-id="i24News France" group-title="News - חדשות" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/I24_official_logo.png/220px-I24_official_logo.png",i24News France
+https://i24alive1-a.akamaihd.net/cc8266d36bb5469b8b4a3097497e06e6/eu-central-1/5377161796001/profile_0/chunklist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="ABC News" group-title="News - חדשות" tvg-logo="http://a.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9t_384.jpg",ABC News
+http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8
+ 
+#EXTINF:-1 tvg-id="CBS News" group-title="News - חדשות" tvg-logo="http://whatsonline.tv/wp-content/uploads/2014/11/CBSN-Logo-466x310.jpg",CBS News
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_2200_av-p.m3u8?sd=10&rebase=on
+ 
+#EXTINF:-1 tvg-id="sky news" group-title="News - חדשות" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Sky_News.svg/250px-Sky_News.svg.png",sky news
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
+
+#EXTINF:-1 tvg-id="Euronews French" group-title="News - חדשות" tvg-logo="http://static.filmon.com/couch/channels/2900/extra_big_logo.png",Euronews French
+http://127.0.0.1:65007/?url=fr&mode=54
+
+#EXTINF:-1 tvg-id="France24 France" group-title="News - חדשות" tvg-logo="http://static.filmon.com/couch/channels/298/extra_big_logo.png",France24 France
+http://static.france24.com/live/F24_FR_LO_HLS/live_web.m3u8
+
+#EXTINF:-1 tvg-id="BFM TV" group-title="News - חדשות" tvg-logo="http://static.filmon.com/couch/channels/2765/extra_big_logo.png",BFM TV
+http://csm-e.dai.bfmtv.com/csm/live/109797390.m3u8
+ 
+#EXTINF:-1 tvg-id="BFM PARIS" group-title="News - חדשות" tvg-logo="",BFM PARIS
+http://bfmparishdslive-lh.akamaihd.net/i/DVMR_PARIS@429747/index_1024_av-p.m3u8?sd=10&rebase=on
+ 
+#EXTINF:-1 tvg-id="BFM SPORT" group-title="News - חדשות" tvg-logo="",BFM SPORT
+http://rmc-i.akamaihd.net/hls/live/218333/876630703001/BFMSPORT/master-4.m3u8
+ 
+#EXTINF:-1 tvg-id="BFM TV BUSINESS" group-title="News - חדשות" tvg-logo="http://www.axelera.org/images/stories/images/actualites/Logo-BFM-Business1.jpg",BFM TV BUSINESS
+http://bfmlive-i.akamaihd.net/hls/live/254438/876450612001/DVMR_BFMBusiness2/master-4.m3u8
+ 
+#EXTINF:-1 tvg-id="Bloomberg" group-title="News - חדשות" tvg-logo="http://static.filmon.com/couch/channels/81/extra_big_logo.png",Bloomberg
+http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
+ 
+#EXTINF:-1 tvg-id="Bloomberg" group-title="News - חדשות" tvg-logo="http://static.filmon.com/couch/channels/81/extra_big_logo.png",Bloomberg
+http://127.0.0.1:65007/?url=https%3A//www.youtube.com/watch%26v%3DGa3maNZ0x0w&mode=3
+
+#EXTINF:-1 tvg-id="ARTE France" group-title="France - צרפת" tvg-logo="http://passion-xbmc.org/fichiers_multimedia/upploadimages/images/1264891126-arte.png",ARTE Fran
+http://artelive-lh.akamaihd.net/i/artelive_fr@344805/master.m3u8|X-Forwarded-For=217.70.184.38
+
+#EXTINF:-1 tvg-id="ARTE France 2" group-title="France - צרפת" tvg-logo="http://passion-xbmc.org/fichiers_multimedia/upploadimages/images/1264891126-arte.png",ARTE Fran 2
+https://streaming-hub.com/stream/arte.m3u8
